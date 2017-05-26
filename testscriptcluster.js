@@ -31,7 +31,7 @@ L.control.attribution({
 // dimensions of the image
 var w = 1280 * 2,
     h = 806 * 2,
-    url = 'floor_plan.svg';
+    url = '2550.svg';
 
 // calculate the edges of the image, in coordinate space
 var southWest = map.unproject([0, h], map.getMaxZoom()-1);
